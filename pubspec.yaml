@@ -1,0 +1,19 @@
+name: slide_container_stack
+description: Slide Stack Container
+version: 0.1.8
+homepage: https://github.com/briansalvattore/slide_container_stack
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
